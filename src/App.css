@@ -66,7 +66,7 @@
 }
 
 .num {
-  font-size: min(3em, 5vw);
+  font-size: min(3em, 5vw, 5vh);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin: 0;
   text-align: center;
